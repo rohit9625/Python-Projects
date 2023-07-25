@@ -16,4 +16,5 @@ This code is about sending mail using smtp(Simple Mail Transfer Protocol)
 5. You got your email (Check your inbox)
 
 
-## If found any errors then check the code and ensure you follow all above steps including prequitsites
+## Note
+- If found any errors then check the code and ensure you follow all above steps including prequitsites
