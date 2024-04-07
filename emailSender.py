@@ -12,7 +12,7 @@ email_password = os.getenv("EMAIL_PASSWORD")
 
 email_receiver = 'receiver@gmail.com'
 
-subject = "Hello:) How are you guys"
+subject = "Hello I am Shushant"
 body = """
     I am Rohit Verma. I am 2nd year Btech student pursuing computer science.
 """
